@@ -32,3 +32,8 @@
   `编辑模式`下显示时间轴，回车键打轴或直接修改都行
 
   `预览模式（可编辑预览模式）`下鼠标点击歌词可以显示该行时间轴，可直接修改
+
+## Use
+npm install
+npm install @craco/craco craco-less @babel/plugin-proposal-decorators babel-plugin-import -D
+npm run build
