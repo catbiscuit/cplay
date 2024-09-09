@@ -60,7 +60,7 @@ const SettingsPage = () => {
     }
   }
   const resetApi = () => {
-    dispatch(setBaseUrl('https://cplay-api.vercel.app'))
+    dispatch(setBaseUrl('https://not.initialized.app'))
     apiRef.current.value = ''
   }
   // 设置 滚动动画

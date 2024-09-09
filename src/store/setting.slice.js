@@ -8,7 +8,7 @@ const settingSlice = createSlice({
   name: 'setting',
   initialState: {
     quality: 128000, //音质
-    baseUrl: 'https://cplay-api.vercel.app',
+    baseUrl: 'https://not.initialized.app',
     animationTime: 300
   },
   reducers: {
